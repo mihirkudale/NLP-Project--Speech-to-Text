@@ -1,4 +1,4 @@
-# NLP-Project--Speech-to-Text
+# Speech-to-Text
 
 **PROBLEM STATEMENT**
 
